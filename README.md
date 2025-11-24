@@ -178,11 +178,6 @@ MIT License
 
 Issues and Pull Requests are welcome!
 
-## 📧 Contact
-
-- Email: support@example.com
-- GitHub: https://github.com/your-repo
-
 ---
 
 **Made with ❤️ for better employee onboarding**
