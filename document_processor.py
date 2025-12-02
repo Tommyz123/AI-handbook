@@ -11,7 +11,7 @@ os.environ['TOKENIZERS_PARALLELISM'] = 'false'
 import pdfplumber
 import re
 from typing import List, Dict
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from config import Config
